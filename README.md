@@ -1,1 +1,1 @@
-Script para facilitar la organizacion de repositorios en diferentes plataformas.
+Script para facilitar la organización de repositorios en diferentes plataformas.
