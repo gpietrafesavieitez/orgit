@@ -1,10 +1,9 @@
 #!/bin/bash
-#
+
 # Orgit 1.0.0
 # Gabriel P.
 # Bash
 # Script para facilitar la organizacion de repositorios en Linux
-#
 
 # Variables
 GIT="https://github.com/gpietrafesavieitez"
